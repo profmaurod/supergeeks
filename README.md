@@ -1,2 +1,3 @@
 # supergeeks
-Exemplode como usar o git e o github
+Exemplo de como usar o git e o github
+## Lembrei direito?
